@@ -2,8 +2,6 @@
 
 A **team university project** modeling a brewery production system from fermentation through packaging using AnyLogic and a structured simulation methodology.
 
-> **Important:** the original `.alp` AnyLogic model was not included in the files currently available to me, so this repository is prepared as a case-study shell. Add the `.alp` file before making this a pinned technical repository if you still have it.
-
 ## Problem
 
 The simulated production line faced rising demand. The objective was to identify bottlenecks, test operational changes, and improve performance before committing to additional capacity.
