@@ -43,18 +43,3 @@ The project also explored how real-time sensor data could support:
 ## Attribution
 
 This was a team project completed with **Henrik Anthony Svensson**. Keep that attribution in the public repository and only upload the shared report/model if you are comfortable publishing the collaborative work.
-
-## Recommended files to add
-
-If you still have them, add:
-
-```text
-model/
-  LibertyBrew_Simulation.alp
-assets/
-  model-overview.png
-  bottleneck-results.png
-  experiment-results.png
-```
-
-Once the `.alp` file is added, this becomes a strong portfolio repo because reviewers can see the actual model rather than only a written case study.
